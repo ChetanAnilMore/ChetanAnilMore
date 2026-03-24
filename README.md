@@ -1,86 +1,111 @@
+<!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Chetan More</h1>
-<h3 align="center">ML Enthusiast | Mathematics & Physics Lover | Future Researcher</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Enthusiast;Mathematics+%2B+Physics;Future+Researcher;Deep+Learning+Explorer" />
+  </a>
+</h3>
 
 ---
 
 ### 🧠 About Me
 - 🎓 Final Year Computer Science Engineering Student  
 - 🔬 Research Intern at **IIT Bombay**  
-- 🤖 Exploring the depths of **Machine Learning & Optimization**  
-- 📚 Passionate about **Mathematics & Physics**  
-- 🚀 Curious mind, always learning something new  
+- 🤖 Working on **Optimization & Machine Learning Algorithms**  
+- 📚 Strong interest in **Mathematics, Physics & Deep Learning**  
+- 🌱 Currently exploring **Convex Optimization & Advanced ML**  
+
+---
+
+### 🔬 Research Interests
+- 📈 Optimization Algorithms  
+- 🤖 Deep Learning  
+- 🧮 Convex & Semi-Infinite Programming  
+- ⚡ Mathematical Modeling
+- 🕹️ Embedded Systems
 
 ---
 
 ### 💻 Tech Stack
 
-#### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Julia](https://img.shields.io/badge/Julia-purple?style=for-the-badge&logo=julia)
-![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php)
+<p align="center">
 
-#### 🌐 Web & Database
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=python,c,java,js,julia,php,html,css,react,mongodb,mysql,git,github,vscode,anaconda" />
 
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-
-#### 🔌 Hardware & IoT
-- Raspberry Pi  
-- Arduino  
-- Embedded Systems  
+</p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-#### 🔹 gradOL (Gradient Optimal Learning)
-- Gradient-based optimizer for **Convex Semi-Infinite Programs (CSIP)**
-- Developed during **IIT Bombay Research Internship**
+#### 🔹 gradOL — Gradient Optimal Learning
+> Advanced optimizer for solving **Convex Semi-Infinite Programs (CSIP)**  
+- Developed at **IIT Bombay**  
+- Focus: Mathematical optimization & algorithm design  
 
 #### 🔹 Smart Parking System
-- IoT-based parking solution  
-- Helps find and manage parking efficiently  
+> IoT-based real-time parking management  
+- Built using **Arduino & Sensors**  
+- Improves parking efficiency  
 
 #### 🔹 Music Recommendation System
-- Built using Python  
-- Suggests songs based on user preferences  
+> Python-based recommendation engine  
+- Suggests music using user behavior  
 
 ---
 
 ### 🏆 Achievements
-- 🎯 **GATE CS 2026 Qualified** — AIR 3232  
+- 🥇 **GATE CS 2026 Qualified — AIR 3232**  
 - 📜 Code Unnati Certification (AI/ML & IoT)  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChetanAnilMore&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanAnilMore&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanAnilMore&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAnilMore&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChetanAnilMore/ChetanAnilMore/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-- 📧 Email: chetanmore733@gmail.com  
-- 💼 LinkedIn: [chetan-more](https://linkedin.com/in/chetan-more-8ab931248)
+<p align="center">
+  <a href="mailto:chetanmore733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/chetan-more-8ab931248">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I enjoy connecting **Mathematics + Machine Learning + Real-world Problems** 🧩
+### ⚡ Philosophy
+> *"Mathematics is the language of the universe, and Machine Learning is how we teach machines to understand it."*
+
+---
+
+### 🎯 Current Goal
+- 📌 Publish research in **Optimization / Machine Learning**
+- 📌 Build impactful AI systems solving real-world problems
 
 ---
