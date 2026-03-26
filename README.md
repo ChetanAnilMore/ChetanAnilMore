@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chetan More</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Enthusiast;Mathematics+%2B+Physics;Future+Researcher;Deep+Learning+Explorer" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=ML+Enthusiast;Computer+Science+Engineer;Deep+Learning+Explorer" />
   </a>
 </h3>
 
