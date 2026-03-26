@@ -45,7 +45,7 @@
 
 #### 🔹 Smart Parking System
 > IoT-based real-time parking management  
-- Built using **Arduino & Sensors**  
+- Built using **Raspberry Pi & Sensors**  
 - Improves parking efficiency  
 
 #### 🔹 Music Recommendation System
