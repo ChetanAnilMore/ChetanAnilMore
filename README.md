@@ -30,7 +30,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,julia,php,html,css,react,mongodb,mysql,git,github,vscode,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch,c,java,js,julia,php,html,css,react,nodejs,mongodb,mysql,git,github,vscode,anaconda,raspberrypi,arduino" />
 
 </p>
 
@@ -63,12 +63,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanAnilMore&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanAnilMore&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChetanAnilMore&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <br>
+  <img src="https://streak-stats.demolab.com?user=ChetanAnilMore&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanAnilMore&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChetanAnilMore&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
